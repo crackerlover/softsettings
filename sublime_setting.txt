@@ -39,7 +39,7 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
     "remember_open_files": false,
     "smart_indent": true,
     "tab_size": 4,
-    "word_wrap": "false"
+    "word_wrap": "false",
     "hot_exit":"true",
 	"remember_open_files":"true",
 }
